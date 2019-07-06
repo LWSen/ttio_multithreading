@@ -11,3 +11,4 @@ Note: we will maitain another dedicated github repo (https://github.com/SI-RISCV
 ```bash
 make dasm PROGRAM=test
 ```
+Use this command to generate verilog data file(.verilog) and objdump file(.dump).
